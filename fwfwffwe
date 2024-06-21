@@ -435,7 +435,7 @@ local CreditsTab = Window:MakeTab({
 	PremiumOnly = false
 })
 
-CreditsTab:AddParagraph("Credits to","OminousVibes - (Got most of the ideas from their thread, check it out! - https://v3rmillion.net/showthread.php?tid=1184088)")
+CreditsTab:AddParagraph("Credits to","CheckerHub")
 
 coroutine.resume(NotificationCoroutine)
 
